@@ -1,8 +1,8 @@
-#Catalogo de livros
+# Catalogo de livros
 
 Um projeto FullStack de pesquisa, visualizacao e favoritamento de livros via Google Books API.
 
-##Tecnologias
+## Tecnologias
 
 - React
 - Typescript
